@@ -79,6 +79,10 @@
     {
       "name": "circle_text_background",
       "value": "#007dff"
+    },
+    {
+      "name": "page_background",
+      "value": "#F1F3F5"
     }
   ]
 }

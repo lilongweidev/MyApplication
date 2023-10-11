@@ -75,6 +75,10 @@
     {
       "name": "fruit_carambola",
       "value": "carambola"
+    },
+    {
+      "name": "todo_page_title",
+      "value": "ToDo"
     }
   ]
 }
